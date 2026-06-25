@@ -23,5 +23,5 @@ I bridge the gap between creative visual identities and production-ready front-e
 ---
 
 ## 📬 Connect With Me
-* 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](TU_LINK_DE_LINKEDIN)
+* 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/milagros-desirée-martinez)
 * 🌐 **Live Portfolio:** [mili-martinez.github.io/Portfolio/](https://mili-martinez.github.io/Portfolio/)
