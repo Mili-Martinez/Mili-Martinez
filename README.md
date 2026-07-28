@@ -7,13 +7,13 @@ I bridge the gap between visual design and front-end implementation, turning des
 ---
 
 ## 🚀 About Me
-* 🎨 **UI/UX & Visual Systems:** Focused on programmatic layout precision, typography curating, and building scalable design ecosystems (Figma, Adobe Illustrator, Adobe Photoshop).
-* 💻 **Front-End Development:** Passionate about the technical implementation phase. I design and iterate directly in the browser using semantic markup and modern utility-first frameworks.
-* ⚡ **Core Toolkit:** Semantic HTML5, Fluid CSS3, Tailwind CSS (v4.0 ecosystem), Vanilla JavaScript.
+* 🎨 **Visual Design & UI:** Focused on visual systems, typography, layout precision and scalable design systems.
+* 💻 **Front-End Development:** Passionate about translating visual concepts into responsive interfaces and iterating directly in the browser.
+* ⚡ **Core Toolkit:** HTML5, CSS3, Tailwind CSS, Git & GitHub, JavaScript.
 
 ---
 
-## 🗂️ Featured Production Repositories
+## 🗂️ Featured Projects
 
 * **[Portfolio Hub](https://mili-martinez.github.io/Portfolio/):** The core architecture and responsive frontend implementation of my personal professional showcase.
 * **[Danielle Distribuidora](LINK_A_TU_REPO_DANIELLE):** Comprehensive identity refresh and responsive e-commerce landing page built entirely from scratch with Tailwind CSS.
