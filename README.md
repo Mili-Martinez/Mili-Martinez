@@ -2,7 +2,7 @@
 
 ### **Visual Designer & UI Developer**
 
-I bridge the gap between creative visual identities and production-ready front-end code. I specialize in turning complex design challenges into fluid, component-driven, and highly responsive digital products.
+I bridge the gap between visual design and front-end implementation, turning design concepts into responsive, component-driven interfaces.
 
 ---
 
